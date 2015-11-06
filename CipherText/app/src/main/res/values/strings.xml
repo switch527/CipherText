@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CipherText</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_substitution">Substitution</string>
+    <string name="key">Key: </string>
+    <string name="multiplicative">Multiplicative</string>
+    <string name="additive">Additive</string>
+    <string name="substitution">Substitution</string>
+    <string name="title_activity_substitution_decrypt">SubstitutionDecrypt</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="copy">Copy</string>
+    <string name="paste">Paste</string>
+    <string name="star">Crypto Star</string>
+</resources>
+
